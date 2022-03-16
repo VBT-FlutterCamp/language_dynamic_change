@@ -1,0 +1,14 @@
+{
+
+    "appBar" : {
+        "tittle" : "Hosgeldiniz , {}"
+
+    },
+
+    "main" : {
+        "descriptionImage" : "Selam",
+        "loginButtonName" : "Giris Yap",
+        "schoolName" : "VBT Flutter Camp",
+        "schoolNameCounStudent" : "VBT flutter kampına {} kisi katıldı. Devamsızlık sınırı {}  "
+    }
+}
